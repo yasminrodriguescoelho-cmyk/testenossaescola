@@ -12,7 +12,8 @@
 <img class="cabeçalho_imagem"
 src="logo_page.png" alt="logo da pagina
   <h1 class="titulo_site">
-<h1 class="sociais">
-
+<div class="sociais">
+<img class= "sociais" src= 'Whatsapp.png" alt="logo do whats da escola">
+    <img class="sociais"src="facebook.png"
 </body>
 </html>
