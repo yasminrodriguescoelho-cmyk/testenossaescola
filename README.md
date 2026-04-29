@@ -9,11 +9,11 @@
 <body>
  <!--header = cabeçalho-->
  <header class = "cabeçalho-itens">   
-<img class="cabeçalho_imagem"
-src="logo_page.png" alt="logo da pagina>
+<img class="cabeçalho_imagem">
+src="logo_page.png" alt="logo da pagina
   <h1 class="titulo_site">
 <div class="sociais">
-<img class= "sociais" src= 'Whatsapp.png" alt="logo do whats da escola">
+<img class= "sociais" src= "Whatsapp.png" alt="logo do whats da escola">
     <img class="sociais"src="facebook.png"
     alt="facebook da escola">
     <img class="sociais" src="instagram.png"
