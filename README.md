@@ -15,5 +15,11 @@ src="logo_page.png" alt="logo da pagina
 <div class="sociais">
 <img class= "sociais" src= 'Whatsapp.png" alt="logo do whats da escola">
     <img class="sociais"src="facebook.png"
+    alt="facebook da escola">
+    <img class="sociais" src="instagram.png"
+    alt="instagram da escola">
+    <div>
+    </header>
+    
 </body>
 </html>
